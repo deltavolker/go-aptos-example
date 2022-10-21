@@ -1,4 +1,4 @@
-module go-aptos-example
+module github.com/deltavolker/go-aptos-example
 
 go 1.18
 
